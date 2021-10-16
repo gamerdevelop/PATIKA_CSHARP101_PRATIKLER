@@ -5,10 +5,11 @@ namespace console_programlama{
         static void Main(string[] args){
             
             Console.WriteLine("Adınızı giriniz: ");
-            string adi = Console.ReadLine();
+            string name = Console.ReadLine();
             Console.WriteLine("Soyadınızı giriniz: ");
-            string soyadi = Console.ReadLine();
-            Console.WriteLine("Selam " + adi + " " + soyadi);
+            string surname = Console.ReadLine();
+            Console.WriteLine("Selam " + name + " " + surname);
+            Console.ReadKey();
         }
         
     }
