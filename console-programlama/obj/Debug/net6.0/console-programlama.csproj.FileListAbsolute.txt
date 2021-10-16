@@ -1,0 +1,15 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\console-programlama.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\console-programlama.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\console-programlama.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\console-programlama.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\ref\console-programlama.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\bin\Debug\net6.0\console-programlama.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\ref\console-programlama.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\console-programlama\obj\Debug\net6.0\console-programlama.genruntimeconfig.cache
