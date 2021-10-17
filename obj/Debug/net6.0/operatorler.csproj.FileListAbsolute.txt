@@ -1,0 +1,16 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.GlobalUsings.g.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\operatorler.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\operatorler.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\operatorler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\ref\operatorler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\bin\Debug\net6.0\operatorler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\ref\operatorler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
