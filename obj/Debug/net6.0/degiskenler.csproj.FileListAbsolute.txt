@@ -1,0 +1,16 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\ref\degiskenler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.GlobalUsings.g.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
