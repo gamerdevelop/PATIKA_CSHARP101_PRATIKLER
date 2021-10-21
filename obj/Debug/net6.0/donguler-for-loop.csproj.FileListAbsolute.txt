@@ -1,0 +1,16 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\ref\donguler-for-loop.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GlobalUsings.g.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
