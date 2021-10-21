@@ -1,0 +1,16 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\donguler-2.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\donguler-2.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\donguler-2.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\donguler-2.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\ref\donguler-2.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\bin\Debug\net6.0\donguler-2.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.GlobalUsings.g.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\ref\donguler-2.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\donguler-2\obj\Debug\net6.0\donguler-2.genruntimeconfig.cache
