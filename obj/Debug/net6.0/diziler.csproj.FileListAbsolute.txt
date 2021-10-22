@@ -1,0 +1,16 @@
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.GlobalUsings.g.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\diziler.exe
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\diziler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\ref\diziler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\ref\diziler.dll
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Users\DrDea\PATIKA.DEV-projects\pratikler\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
